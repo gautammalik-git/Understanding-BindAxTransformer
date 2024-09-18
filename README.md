@@ -7,7 +7,7 @@ If you're interested in developing a machine learning model to learn the intrica
 
 Welcome to the BindAxTransformer repository! This project features a self-supervised transformer model designed to understand and predict interactions between ligands and proteins. The model is built using PyTorch and Hugging Face's Transformers library.
 
-In this README, we provide a detailed walkthrough of the code, explaining each section and its purpose. This guide is ideal for those interested in learning how transformers work in the context of protein-ligand interactions.
+In this README, I provide a detailed walkthrough of the code, explaining each section and its purpose. This guide is ideal for those interested in learning how transformers work in the context of protein-ligand interactions.
 
 ## Code Explanation
 
